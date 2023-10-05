@@ -1,4 +1,6 @@
 # RNN
-RNN para generacion de textos
-Contiene un Notebook basado en https://www.tensorflow.org/text/tutorials/text_generation y dos datasets de el quijote y orgullo y prejuicio
+RNN for text generation
+based on https://www.tensorflow.org/text/tutorials/text_generation 
+with datasets for El Quijote and Pride and Prejudice
+
 
